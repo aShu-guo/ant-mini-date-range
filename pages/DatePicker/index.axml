@@ -1,0 +1,13 @@
+<list-item>
+  日期范围
+  <range-picker 
+      format="YYYY-MM"
+      precision="month"
+      slot="extra"
+      placeholder="请选择"
+      defaultValue="{{defaultDateRange}}"
+      onPickerChange="handlePickerRangeChange"
+      onVisibleChange="handleTriggerPicker"
+      onOk="handleRangeOk">
+  </range-picker>
+</list-item>

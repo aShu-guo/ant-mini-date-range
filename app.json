@@ -1,0 +1,15 @@
+{
+  "pages": [
+    "pages/DatePicker/index"
+  ],
+  "window": {
+    "enableWK": "YES",
+    "enableDSL": "YES",
+    "enableJSC": "YES",
+    "defaultTitle": "小程序版 antd-mini 库",
+    "titleBarColor": "#FFFFFF",
+    "pullRefresh": false,
+    "allowsBounceVertical": false,
+    "enableInPageRenderInput": "YES"
+  }
+}

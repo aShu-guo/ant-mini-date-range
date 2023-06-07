@@ -1,0 +1,9 @@
+{
+  "defaultTitle": "DatePicker",
+  "usingComponents": {
+    "date-picker": "antd-mini/es/DatePicker/index",
+    "range-picker": "antd-mini/es/DatePicker/RangePicker/index",
+    "list-item": "antd-mini/es/List/ListItem/index",
+    "list": "antd-mini/es/List/index"
+  }
+}
